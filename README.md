@@ -1,4 +1,4 @@
-# Low Profile Converter
+# MX Choc Converter
 Choc Switch with MX Sockets  
 ロープロファイルコンバーターは、MX互換スイッチ用に設計された基板でChoc V1/V2スイッチを使用するために設計されました。  
 以下の注意点をよくお読みの上ご使用ください。

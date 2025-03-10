@@ -1,6 +1,6 @@
 # MX Choc Converter
 "Choc Switch with MX Footprints" Converter  
-
+![](img/converter.jpg)
 MX互換スイッチ用に設計された基板でChoc V1/V2スイッチを使用可能にする変換基板です。  
 以下の注意点を確認の上ご使用ください。
 - 本品ははんだづけを必要とするキットです。
